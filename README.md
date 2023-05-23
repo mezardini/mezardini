@@ -40,26 +40,6 @@ Here are some ideas to get you started:
 -->
 
 
-# Python (Django) Developer
-
-Welcome to the GitHub repository of a Python developer with expertise in Django. This repository showcases a collection of projects and code samples that demonstrate the developer's skills and experience in building web applications using Python and the Django framework.
-
-## Projects
-
-- Project 1: [Project Name]
-  - Description: Briefly describe the project and its purpose.
-  - Technologies: List the technologies used in the project (e.g., Python, Django, HTML, CSS, JavaScript).
-  - Key Features: Highlight the main features or functionalities implemented in the project.
-  - Screenshots: Optionally include screenshots or images to visually represent the project.
-
-- Project 2: [Project Name]
-  - Description: Briefly describe the project and its purpose.
-  - Technologies: List the technologies used in the project (e.g., Python, Django, HTML, CSS, JavaScript).
-  - Key Features: Highlight the main features or functionalities implemented in the project.
-  - Screenshots: Optionally include screenshots or images to visually represent the project.
-
-...
-
 ## Code Samples
 
 In addition to complete projects, this repository also contains code samples that demonstrate specific functionalities or techniques. These code samples cover various aspects of Python and Django development, including:
@@ -68,7 +48,7 @@ In addition to complete projects, this repository also contains code samples tha
 - User authentication and authorization
 - API development
 - Front-end integration (HTML, CSS, JavaScript)
-- Testing (unit tests, integration tests)
+
 
 Feel free to explore the code samples and dive into the implementation details.
 
@@ -76,9 +56,9 @@ Feel free to explore the code samples and dive into the implementation details.
 
 To run any of the projects or code samples in this repository, you will need to set up a development environment with the following prerequisites:
 
-- Python [version]
-- Django [version]
-- [Other dependencies, if any]
+- Python 4.0+
+- Django 3.4+
+
 
 Once you have the prerequisites installed, you can follow the instructions provided in each project's directory or code sample to set up and run the application.
 
@@ -90,7 +70,7 @@ Contributions and suggestions for improving any aspect of the projects or code s
 
 If you have any questions or would like to get in touch, please feel free to reach out via:
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: mezardini@gmail.com
+- LinkedIn: linkedin.com/in/olaoluwa-ajisola-555220251/
 
 Thank you for visiting this GitHub repository! Explore the projects and code samples to gain insights into Python (Django) development.
