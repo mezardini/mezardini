@@ -56,8 +56,8 @@ Feel free to explore the code samples and dive into the implementation details.
 
 To run any of the projects or code samples in this repository, you will need to set up a development environment with the following prerequisites:
 
-- Python 4.0+
-- Django 3.4+
+- Python 3.7.0+
+- Django 3.1+
 
 
 Once you have the prerequisites installed, you can follow the instructions provided in each project's directory or code sample to set up and run the application.
