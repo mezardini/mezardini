@@ -14,10 +14,11 @@ Repositories:
 - 😄 Pronouns: He/Him
 
 Here are some of the repositories you can find on my GitHub profile:
-- Tixvana - Event ticketing platform.
-- Mezzala - Social app for football fans
-- Realer - Real estate listing website
-- Dinipredictx - Football Prediction site 
+- Tixvana - Event ticketing platform, Live here [tixvana.onrender.com](https://tixvana.onrender.com).
+- Mezzala - Social app for football fans Live here, [mezzala.onrender.com](https://mezzala.onrender.com).
+- Realer - Real estate listing website, Live here, [realer.onrender.com](https://realer.onrender.com).
+- [Oxos-ReceiptMkr](https://github.com/mezardini/oxos-receiptmkr)- receipt generating api for ecommerce stores.
+- [Mypage](https://github.com/mezardini/mypage) - Shopify like web app for sellers to display their products 
 
 
 
