@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Profile:
 My name is Olaoluwa, and I am a software developer. On GitHub, you will find repositories related to python and django projects i have built.
 
 Here's the link to my resume, [Olaoluwa Ajisola Resume](https://drive.google.com/drive/folders/1TiMtE3UnMFZ3RusBHoXNoZK8-hlJri_J)
