@@ -24,8 +24,6 @@ Here are some of the repositories you can find on my GitHub profile:
 
 
 
-Thank you for visiting my GitHub profile!
-
 <!--
 **mezardini/mezardini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -73,6 +71,6 @@ Contributions and suggestions for improving any aspect of the projects or code s
 If you have any questions or would like to get in touch, please feel free to reach out via:
 
 - Email: mezardini@gmail.com
-- LinkedIn: linkedin.com/in/olaoluwa-ajisola-555220251/
+- LinkedIn: [Olaoluwa Ajisola](https://linkedin.com/in/olaoluwa-ajisola-555220251/)
 
 Thank you for visiting this GitHub repository! Explore the projects and code samples to gain insights into Python (Django) development.
