@@ -7,10 +7,10 @@ Here's the link to my resume, [Olaoluwa Ajisola Resume](https://drive.google.com
 
 
 Here are some of the repositories you can find on my GitHub profile:
-- Tixvana - Event ticketing platform, Live here [tixvana.onrender.com](https://tixvana.onrender.com).
-- Mezzala - Social app for football fans Live here, [mezzala.onrender.com](https://mezzala.onrender.com).
-- Realer - Real estate listing website, Live here, [realer.onrender.com](https://realer.onrender.com).
-- [Oxos-ReceiptMkr](https://github.com/mezardini/oxos-receiptmkr)- receipt generating api for ecommerce stores.
+-Scoracle - an AI Powered football prediction website, Live here[scoracle](https://scoracle.onrender.com)
+- Tixvana - Event ticketing platform, Live here [tixvana](https://tixvana.onrender.com).
+- Oxos-Receiptmkr - receipt generating api for ecommerce stores, Live here, [oxos-receiptmkr](https://oxos-receiptmkr.onrender.com).
+- Realer - Real estate listing website, Live here, [realer](https://realer.onrender.com).
 - [Mypage](https://github.com/mezardini/mypage) - Shopify like web app for sellers to display their products 
 
 
