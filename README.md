@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 
-My name is Mezard and I am a software developer. On GitHub, you will find repositories related to python and django projects i have built.
+My name is Olaoluwa and I am a software developer. On GitHub, you will find repositories related to python and django projects i have built.
 
-Here's the link to my resume, [Mezardini's Resume](https://drive.google.com/drive/folders/1TiMtE3UnMFZ3RusBHoXNoZK8-hlJri_J)
+Here's the link to my resume, [Olaoluwa's Resume](https://flowcv.com/resume/c87apl0a3d)
 
 
 Here are some of the repositories you can find on my GitHub profile:
--Scoracle - an AI Powered football prediction website, Live here[scoracle](https://scoracle.onrender.com)
-- Tixvana - Event ticketing platform, Live here [tixvana](https://tixvana.onrender.com).
-- Oxos-Receiptmkr - receipt generating api for ecommerce stores, Live here, [oxos-receiptmkr](https://oxos-receiptmkr.onrender.com).
-- Realer - Real estate listing website, Live here, [realer](https://realer.onrender.com).
+-Scoracle - an AI Powered football prediction website, Live here [scoracle](https://scoracle-predict.vercel.app)
+- LPContentAI - AI Powered Landing Page Content Generator, Live here [LPContentAI](https://lpcontentai.netlify.app).
+- RedditleadHQ - Reddit Keyword Analysis For Lead Generation, Live here, [RedditLeadHQ](https://redditleadhq.netlify.app/).
 - [Mypage](https://github.com/mezardini/mypage) - Shopify like web app for sellers to display their products 
 
 
@@ -22,7 +21,7 @@ In addition to complete projects, this repository also contains code samples tha
 - Database interactions
 - User authentication and authorization
 - API development
-- Front-end integration (HTML, CSS, JavaScript)
+- Front-end integration (React, Vue)
 
 
 ## Contact Information
